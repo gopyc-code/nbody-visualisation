@@ -1,5 +1,5 @@
 # N-Body Simulation with Fast Multipole Method and Verlet Integration
-
+![N-bodies](https://github.com/user-attachments/assets/cb519928-b0ef-445c-bfaf-cca70cdc39a9)
 ## About
 This project visualises the N-body problem, specifically the motion of heavy classical particles, using the Fast Multipole Method and the Verlet integration method.
 
