@@ -2,7 +2,7 @@
 This project visualises the N-body problem, specifically the motion of heavy classical particles, using the Fast Multipole Method and the Verlet integration method.
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/3a204499-a327-429f-8021-5c97a404ce83" alt="N-bodies" width="300" />
+    <img src="https://github.com/user-attachments/assets/3a204499-a327-429f-8021-5c97a404ce83" alt="N-bodies" width="500" />
 </div>
 
 ## Features
