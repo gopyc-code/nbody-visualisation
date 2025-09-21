@@ -12,7 +12,4 @@ This project visualises the N-body problem, specifically the motion of heavy cla
 - Animated visualization of particle motion with `matplotlib`.
 
 ## Usage
-Run the script to generate and save an animation (`N-bodies.gif`) of particle dynamics:
-
-```bash
-python main.py
+Run the script to generate and save an animation (`N-bodies.gif`) of particle dynamics.
